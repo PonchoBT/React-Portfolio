@@ -1,0 +1,6 @@
+.navbar .nav .nav-item .nav-link.active {
+    color: #ffffff !important;
+    background: #ffc107 !important;
+    border-radius: 5px !important;
+  }
+  
