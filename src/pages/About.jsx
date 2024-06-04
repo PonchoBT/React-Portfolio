@@ -5,7 +5,7 @@ export default function About() {
       <h1>About me</h1>
       <div className="text-center mt-5 mb-5">
         <img
-          src="https://deaftech.com.mx/deaftech/img/AlfonsoBalderasTorres.jpg"
+          src="https://media.licdn.com/dms/image/D5603AQEloN9RgATjTg/profile-displayphoto-shrink_200_200/0/1713298470309?e=1723075200&v=beta&t=61UPx-F9VRPkf9xkeJrQXzoEDOy5r63FH9vNQYIILdc"
           alt="Profile"
           className="rounded-circle mb-3"
           style={{ width: "150px", height: "150px" }}
